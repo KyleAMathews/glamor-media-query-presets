@@ -1,0 +1,23 @@
+{
+  "name": "glamor-media-query-presets",
+  "version": "1.0.0",
+  "description": "Media Query presets for use in Glamor from v2 that were removed in v3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KyleAMathews/glamor-media-query-presets.git"
+  },
+  "keywords": [
+    "glamor",
+    "media-query"
+  ],
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KyleAMathews/glamor-media-query-presets/issues"
+  },
+  "homepage": "https://github.com/KyleAMathews/glamor-media-query-presets#readme"
+}
