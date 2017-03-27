@@ -20,3 +20,11 @@ import presets from 'glamor-media-query-presets'
   }}
 />
 ```
+
+The exported presets object has five media query presets defined.
+
+* Mobile: '@media (min-width: 400px)',
+* Phablet : '@media (min-width: 550px)',
+* Tablet : '@media (min-width: 750px)',
+* Desktop : '@media (min-width: 1000px)',
+* Hd : '@media (min-width: 1200px)'
